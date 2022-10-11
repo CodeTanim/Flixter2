@@ -1,10 +1,10 @@
 # Android Project 4 - *FlixterV2*
 
-Submitted by: **Alexander Ng**
+Submitted by: **Tanim Islam**
 
 **FlixterV2** is a movie browsing app that allows users to browse trending movies. Clicking on a movie shows the overview, release date, popularity, and vote average
 
-Time spent: **4** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -30,18 +30,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/xyzcv979/FlixterV2/blob/main/appDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/3OdU7Y1Wrw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows 
 
 ## Notes
 
-Struggled to find how to setup on-click for the intent
+Had a lot of trouble with connecting all of the relevant parts together (i.g recyclerview, intent). 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Tanim Islam]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
